@@ -1,0 +1,5 @@
+python 3.14
+streamlit
+pandas
+numpy
+scikit-learn
